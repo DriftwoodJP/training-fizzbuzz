@@ -1,6 +1,6 @@
 require 'test/unit'
 require 'stringio'
-require './fizzbuzz'
+require './fizz_buzz'
 
 # Test case for FizzBuzz class
 class TestFizzBuzz < Test::Unit::TestCase
